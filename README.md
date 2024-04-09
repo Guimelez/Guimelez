@@ -14,4 +14,5 @@
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   </br>
-https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+
