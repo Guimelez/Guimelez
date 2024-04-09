@@ -14,4 +14,4 @@
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   </br>
-  [![HitCount](https://hits.dwyl.com/Guimelez/{projeto}.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Guimelez/ {projeto})
+  [![HitCount](https://hits.dwyl.com/Guimelez/readme.md.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Guimelez/readme.md)
