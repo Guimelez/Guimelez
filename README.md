@@ -14,5 +14,6 @@
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+    <h2>Visitantes</h2>
+<p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Guimelez/count.svg" /></p>
 
