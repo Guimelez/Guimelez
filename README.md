@@ -1,4 +1,4 @@
-<img heigt="180px" width="200px" src=secret/Be.gif>
+
 <br>
 <div align="center">
   <a href="https://github.com/Guimelez">
@@ -12,7 +12,6 @@
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  </br>
-    <h2>Visitantes</h2>
+  </br>  
+   <h2>Visitantes</h2>
 <p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Guimelez/count.svg" /></p>
-
