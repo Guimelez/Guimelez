@@ -14,7 +14,7 @@
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   </br>
-    <p align="center"
-   <h2>Visitantes</h2>
-  </p>
+    <p align="center">
+   <h3>Visitantes</h3>
+    </p>
 <p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Guimelez/count.svg" /></p>
