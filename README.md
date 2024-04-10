@@ -1,8 +1,5 @@
 
 # <p align="center">Guimelez⚡</p>
-<p align="center">
-  <a href="https://github.com/Guimelez/Guimelez"><a href="https://guimelez.github.io/Readme.file/"></a>
-</p>
 <br>
 <div align="center">
   <a href="https://github.com/Guimelez">
