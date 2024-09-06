@@ -23,5 +23,5 @@
 # <p align="center"> Tô ai Aposentado na Programação...</p>
 ## <p align="center"> Em busca do 333 🌙 </p>
 <h2 align="left">Certificates & Licenses</h2>
-<p align="center"><img src="./images/html-css-badge.png" width="80"></a>
+<p align="center"><img src="html-css-badge.png" width="80"></a>
 </p>
