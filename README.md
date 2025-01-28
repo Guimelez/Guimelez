@@ -21,8 +21,7 @@
     </p>
 <p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Guimelez/count.svg" /></p>
 
-# <p align="center" style="bold">  333 🌙 
-Aposentado na programação</p>
+# <p align="center" style="bold">  333 🌙 </p>
 # <h2 align="left">Certificados</h2>
 <p align="center"><img src="html-css-badge.png" width="80"></a>
 </p>
