@@ -2,9 +2,11 @@
 # <p align="center">Guimelez⚡</p>
 ## <p align="center"> <bold>Aposentado Na Programação</bold></p>
 
-<div align="center">
-  <a href="https://github.com/Guimelez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimelez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div style="display: flex; justify-content: center;">
+  <div style="border-radius: 50%; overflow: hidden; width: 200px; height: 200px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Guimelez/readme2/blob/main/5a7226a335ec8130f3d72d9bfa3ca98f.gif" alt="GIF" style="width: 100%; height: auto;">
+  </div>
+</div>
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimelez&layout=compact&langs_count=7&theme=dracula"/>
 </div>
