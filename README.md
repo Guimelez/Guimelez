@@ -2,20 +2,6 @@
 # <p align="center">Guimelez⚡</p>
 ## <p align="center"> <bold>Aposentado Na Programação</bold></p>
 
-.img-box {
-  background-color: #66BFBF;
-  border-radius: 100%;
-  width: 150px;
-  padding: 23px;
-}
-
-.code-img {
-  width: inherit;
-}
-<div class='img-box'>
-  <img src="https://github.com/Guimelez/readme2/blob/main/5a7226a335ec8130f3d72d9bfa3ca98f.gif" class="code-img" alt="Code">
-</div>
-
 <div style="display: flex; justify-content: center;">
   <div style="border-radius: 50%px; overflow: hidden; width: 200px; height: 200px; display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/Guimelez/readme2/blob/main/5a7226a335ec8130f3d72d9bfa3ca98f.gif" alt="GIF" style="width: 100%; height: auto;">
