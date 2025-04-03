@@ -1,11 +1,10 @@
 
- <h1><p align="center">Guimelez⚡ </p>
+ <h1><p align="center">𝙶𝙴𝚁𝙴𝙻𝙻𝙸 🔗 </p>
 
 <p align="center">
       <a href="https://www.instagram.com/gui_gerelli?igsh=MTM3OGM1MHU3OGJkcQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://on.soundcloud.com/hqhCu"><img alt="Soundcloud" title="Minhas Musica" src="https://shields.io/badge/-Soundcloud-critical.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"></a>
-      <a href="https://open.spotify.com/playlist/57flE86v6Cv7mfqygKvHEJ?si=irgUV9d3SSKzt8ssidhkfQ&pi=xFwnc1QFTqSBu">
-      <img alt="Spotify" title="Minhas Musica" src="https://shields.io/badge/-Spotify-critical.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://open.spotify.com/playlist/57flE86v6Cv7mfqygKvHEJ?si=irgUV9d3SSKzt8ssidhkfQ&pi=xFwnc1QFTqSBu"><img alt="Spotify" title="Minhas Musica" src="https://shields.io/badge/-Spotify-critical.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p></h1>
 
 <h1> <p align="center"> <bold>Aposentado Na Programação</bold></p>
