@@ -15,9 +15,6 @@
   </div>
 </div></h1>
     
- <h1> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimelez&layout=compact&langs_count=7&theme=dracula"/>
-</div></h1>
-    
   <div style="display: inline_block">
   
   <h1> <p align="center"> Visitantes 
