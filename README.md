@@ -19,9 +19,8 @@
   <h1> <p align="center"> Visitantes 
  <p align="center">  <img alingn="center" src="<!-- Inicia codigo Contador -->
 <div align="center"><a title='Contador de Visitas do MegaContador' href='https://megacontador.com.br/' ><img src='https://megacontador.com.br/img-2spCwynKTuj5Hehd-2.gif' border='0' alt='Contador de visitas'></a></div>
+/></p></h1>
 <!-- Fim do codigo Contador -->
-   " /></p></h1>
-
  <h1 align="left">Certificados</h1>
 <p align="center"><img src="html-css-badge.png" width="80"></a>
 </p>
